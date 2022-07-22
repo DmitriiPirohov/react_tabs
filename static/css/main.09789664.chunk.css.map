@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CAClB,UAAW,CACX,gBAAiB,CACjB,qBAAuB,CACxB,eAGC,iBAAkB","file":"main.09789664.chunk.css","sourcesContent":[".App {\n  text-align: center;\n  color: aqua;\n  border-radius: 2%;\n  border: 1px solid black;\n}\n\n.tab-container {\n  margin-left: 600px;\n}\n"]}
